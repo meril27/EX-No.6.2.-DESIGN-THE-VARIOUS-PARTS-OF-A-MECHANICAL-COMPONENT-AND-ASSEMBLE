@@ -1,8 +1,8 @@
 # EX No.6.2.DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
-## DATE:
+## DATE:07.05.2025
 
 ## AIM: 
-To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
+To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view.
 
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
@@ -49,5 +49,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/5395b95c-2799-4ae2-9159-be92d5e0c373)
+
 ## RESULT:
-Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
+Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done.
